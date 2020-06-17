@@ -1,0 +1,248 @@
+# Copyright (C) 2008-2012 Matthew Weatherford <matt@biggmatt.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: WinFF 1.5.0\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/winff/issues/list\n"
+"POT-Creation-Date: 2014-02-15 11:14+0100\n"
+"PO-Revision-Date: 2008-12-09\n"
+"Last-Translator: Predrag Tomasevic <pele@beotel.net>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"License: GPL version 3\n"
+
+#: unit1.rsanalysing
+msgid "Анализирование"
+msgstr ""
+
+#: unit1.rsconverting
+#, fuzzy
+#| msgid "Converting"
+msgid "Преобразование"
+msgstr "Konverzija u toku"
+
+#: unit1.rscouldnotfindffmpeg
+#, fuzzy
+#| msgid "Could not find either ffmpeg or avconv."
+msgid "Не найден FFmpeg."
+msgstr "Nije moguće pronaći FFmpeg."
+
+#: unit1.rscouldnotfindffplay
+#, fuzzy
+#| msgid "Could not find either ffplay or avplay."
+msgid "Не найден FFPlay."
+msgstr "Nije moguće pronaći FFPlay."
+
+#: unit1.rscouldnotfindfile
+#, fuzzy
+#| msgid "Could Not Find File"
+msgid "Не найден файл."
+msgstr "Nije moguće pronaći fajl"
+
+#: unit1.rscouldnotfindpresetfile
+#, fuzzy
+#| msgid "Could not find presets file."
+msgid "Не найден файл с параметрами."
+msgstr "Nije moguće pronaći preset fajl."
+
+#: unit1.rsextensionnoperiod
+#, fuzzy
+#| msgid "Extension can not contain a period"
+msgid "Расширение файла не должно содержать точку"
+msgstr "Ekstenzija ne može sadržati tačku"
+
+#: unit1.rsfiledoesnotexist
+#, fuzzy
+#| msgid "file does not exist"
+msgid "файл не существует"
+msgstr "fajl ne postoji"
+
+#: unit1.rsinvalidpreset
+#, fuzzy
+#| msgid "Invalid Preset File"
+msgid "Некорректный файл параметров"
+msgstr "Preset fajl nije validan"
+
+#: unit1.rsnamemustbeallpha
+#, fuzzy
+#| msgid "Name Must be alphanumeric (a-z,A-Z,0-9)"
+msgid "Имя должно быть буквнено-цифровым (a-z,A-Z,0-9)"
+msgstr "Ime more biti alfanumeričko (a-z,A-Z,0-9)"
+
+#: unit1.rspleaseadd1file
+#, fuzzy
+#| msgid "Please add at least 1 file to convert"
+msgid "Нет файлов для преобразования"
+msgstr "Dodajte bar jedan fajl za konverziju"
+
+#: unit1.rspleaseselectapreset
+#, fuzzy
+#| msgid "Please select a preset"
+msgid "Выберите настройки преобразования"
+msgstr "Molimo, selektujte preset"
+
+#: unit1.rspresetalreadyexist
+#, fuzzy
+#| msgid "Preset: %s%s%s already exists. Do you want to replace the current preset?"
+msgid "Предустановка %s%s%s уже существует"
+msgstr "Preset: %s%s%s već postoji"
+
+#: unit1.rspresethasnoext
+#, fuzzy
+#| msgid "The preset to import does not have an extension"
+msgid "В импортируемых настройках отсутствует расширение"
+msgstr "Preset za import nema ekstenziju"
+
+#: unit1.rspresethasnolabel
+#, fuzzy
+#| msgid "The preset to import does not have a label"
+msgid "В импортируемых настройках отсутствует описание"
+msgstr "Preset za import nema oznaku"
+
+#: unit1.rspresettoexport
+#, fuzzy
+#| msgid "Please select a preset to export"
+msgid "Пожалуйста выберите параметры для экспорта"
+msgstr "Molimo, selektujte preset za eksport"
+
+#: unit1.rspresetwithlabelexists
+#, fuzzy
+#| msgid "Preset with label: %s%s%s already exists"
+msgid "Настройки с описанием %s%s%s уже существуют"
+msgstr "Preset sa oznakom: %s%s%s već postoji"
+
+#: unit1.rspressenter
+#, fuzzy
+#| msgid "Press Enter to Continue"
+msgid "Нажмите Ввод для продолжения"
+msgstr "Pritisnite Enter za nastavak"
+
+#: unit1.rsrddialogtitle
+msgid "Восстановить по умолчанию"
+msgstr ""
+
+#: unit1.rsreplacepreset
+msgid "Заменить параметры?"
+msgstr ""
+
+#: unit1.rsrestoredefaults
+msgid "Восстановить параметры и настройки по умолчанию?"
+msgstr ""
+
+#: unit1.rsselectdirectory
+#, fuzzy
+#| msgid "Select Directory"
+msgid "Выберите каталог"
+msgstr "Standardni izlazni direktorijum"
+
+#: unit1.rsselectpresetfile
+#, fuzzy
+#| msgid "Select Preset File"
+msgid "Выберите файл с параметрами"
+msgstr "Selektuj preset fajl"
+
+#: unit1.rsselectvideofiles
+#, fuzzy
+#| msgid "Select Video Files"
+msgid "Выберите видео файл(ы)"
+msgstr "Selektuj video fajlove"
+
+#: unit1.rsterminaltestfailed
+msgid "Кажется, запуск терминала не удался. Наиболее вероятная причина - неправильная настройка параметров терминала в настройках Linux. Вы можете найти его через меню: Правка -> Настройки -> Linux -> Параметры терминала. Попробуйте изменить \"-e\" на \"-x\" или наоборот."
+msgstr ""
+
+#: unit1.rsthepresethasillegalchars
+#, fuzzy
+#| msgid "The preset contains illegal characters"
+msgid "Имя настроек содержит недопустимые символы"
+msgstr "Preset sadrži karaktere koji nisu dozvoljeni"
+
+#: unit2.rscreatepreset
+#, fuzzy
+#| msgid "Create Preset:"
+msgid "Сохранить параметры?"
+msgstr "Kreiraj preset:"
+
+#: unit2.rsimportpresets
+#, fuzzy
+#| msgid "Import Presets"
+msgid "Импортировать параметры"
+msgstr "Importuj preset"
+
+#: unit2.rslabelmustbeunique
+#, fuzzy
+#| msgid "Label must be unique."
+msgid "Описание должно быть уникальным."
+msgstr "Oznaka mora biti unikatna."
+
+#: unit2.rsremovepreset
+#, fuzzy
+#| msgid "Remove Preset:"
+msgid "Удалить настройки?"
+msgstr "Obriši preset:"
+
+#: unit2.rsupdatepreset
+#, fuzzy
+#| msgid "Update Preset:"
+msgid "Заменить настройки?"
+msgstr "Ažuriraj preset:"
+
+#: unit2.rsyoumustenterextension
+#, fuzzy
+#| msgid "You must enter the extension."
+msgid "Необходимо ввести расширение."
+msgstr "Morate uneti ekstenziju."
+
+#: unit2.rsyoumustenterlabel
+#, fuzzy
+#| msgid "You must enter a label."
+msgid "Необходимо ввести описание."
+msgstr "Morate uneti oznaku."
+
+#: unit2.rsyoumustenternmae
+#, fuzzy
+#| msgid "You must enter a name."
+msgid "Необходимо ввести имя."
+msgstr "Morate uneti ime."
+
+#: unit3.rslaunchpadcontrib
+msgid "Участники Launchpad"
+msgstr ""
+
+#: unit3.rstranslators
+msgid "Переводчики:"
+msgstr ""
+
+#: unit4.rspriorityhigh
+#, fuzzy
+#| msgid "High"
+msgid "Высокий"
+msgstr "Visoki"
+
+#: unit4.rspriorityidle
+#, fuzzy
+#| msgid "Idle"
+msgid "Низкий"
+msgstr "Niski"
+
+#: unit4.rsprioritynormal
+#, fuzzy
+#| msgid "Normal"
+msgid "Нормальный"
+msgstr "Normalni"
+

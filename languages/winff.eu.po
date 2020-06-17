@@ -1,0 +1,241 @@
+# Basque translation for winff
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the winff package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: winff\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/winff/issues/list\n"
+"POT-Creation-Date: 2014-02-15 11:14+0100\n"
+"PO-Revision-Date: 2011-12-13 21:14+0000\n"
+"Last-Translator: Asier Iturralde Sarasola <Unknown>\n"
+"Language-Team: Basque <eu@li.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-05-04 09:01+0000\n"
+"X-Generator: Launchpad (build 16598)\n"
+
+#: unit1.rsanalysing
+#, fuzzy
+#| msgid "Analysing"
+msgid "Анализирование"
+msgstr "Analizatzen"
+
+#: unit1.rsconverting
+#, fuzzy
+#| msgid "Converting"
+msgid "Преобразование"
+msgstr "Bihurtzen"
+
+#: unit1.rscouldnotfindffmpeg
+#, fuzzy
+#| msgid "Could not find either ffmpeg or avconv."
+msgid "Не найден FFmpeg."
+msgstr "Ezin izan da FFmpeg aurkitu"
+
+#: unit1.rscouldnotfindffplay
+#, fuzzy
+#| msgid "Could not find either ffplay or avplay."
+msgid "Не найден FFPlay."
+msgstr "Ezin izan da FFplay aurkitu"
+
+#: unit1.rscouldnotfindfile
+#, fuzzy
+#| msgid "Could Not Find File"
+msgid "Не найден файл."
+msgstr "Ezin izan da fitxategia aurkitu"
+
+#: unit1.rscouldnotfindpresetfile
+#, fuzzy
+#| msgid "Could not find presets file."
+msgid "Не найден файл с параметрами."
+msgstr "Ezin izan da aurrezarpen-fitxategia aurkitu."
+
+#: unit1.rsextensionnoperiod
+#, fuzzy
+#| msgid "Extension can not contain a period"
+msgid "Расширение файла не должно содержать точку"
+msgstr "Luzapenak ezin du punturik eduki"
+
+#: unit1.rsfiledoesnotexist
+#, fuzzy
+#| msgid "file does not exist"
+msgid "файл не существует"
+msgstr "fitxategia ez da existitzen"
+
+#: unit1.rsinvalidpreset
+#, fuzzy
+#| msgid "Invalid Preset File"
+msgid "Некорректный файл параметров"
+msgstr "Aurrezarpen-fitxategi baliogabea"
+
+#: unit1.rsnamemustbeallpha
+#, fuzzy
+#| msgid "Name Must be alphanumeric (a-z,A-Z,0-9)"
+msgid "Имя должно быть буквнено-цифровым (a-z,A-Z,0-9)"
+msgstr "Izenak alfazenbakizkoa (a-z,A-Z,0-9) izan behar du"
+
+#: unit1.rspleaseadd1file
+#, fuzzy
+#| msgid "Please add at least 1 file to convert"
+msgid "Нет файлов для преобразования"
+msgstr "Mesedez, gehitu gutxienez bihurtzeko fitxategi bat"
+
+#: unit1.rspleaseselectapreset
+#, fuzzy
+#| msgid "Please select a preset"
+msgid "Выберите настройки преобразования"
+msgstr "Mesedez, hautatu aurrezarpen bat"
+
+#: unit1.rspresetalreadyexist
+#, fuzzy
+#| msgid "Preset: %s%s%s already exists. Do you want to replace the current preset?"
+msgid "Предустановка %s%s%s уже существует"
+msgstr "%s%s%s aurrezarpena dagoeneko existitzen da"
+
+#: unit1.rspresethasnoext
+#, fuzzy
+#| msgid "The preset to import does not have an extension"
+msgid "В импортируемых настройках отсутствует расширение"
+msgstr "Inportatu beharreko aurrezarpenak ez dauka luzapenik"
+
+#: unit1.rspresethasnolabel
+#, fuzzy
+#| msgid "The preset to import does not have a label"
+msgid "В импортируемых настройках отсутствует описание"
+msgstr "Inportatu beharreko aurrezarpenak ez dauka etiketarik"
+
+#: unit1.rspresettoexport
+#, fuzzy
+#| msgid "Please select a preset to export"
+msgid "Пожалуйста выберите параметры для экспорта"
+msgstr "Mesedez, hautatu aurrezarpen bat esportatzeko"
+
+#: unit1.rspresetwithlabelexists
+#, fuzzy
+#| msgid "Preset with label: %s%s%s already exists"
+msgid "Настройки с описанием %s%s%s уже существуют"
+msgstr "%s%s%s etiketadun aurrezarpena dagoeneko existitzen da"
+
+#: unit1.rspressenter
+#, fuzzy
+#| msgid "Press Enter to Continue"
+msgid "Нажмите Ввод для продолжения"
+msgstr "Sakatu enter jarraitzeko"
+
+#: unit1.rsrddialogtitle
+msgid "Восстановить по умолчанию"
+msgstr ""
+
+#: unit1.rsreplacepreset
+msgid "Заменить параметры?"
+msgstr ""
+
+#: unit1.rsrestoredefaults
+msgid "Восстановить параметры и настройки по умолчанию?"
+msgstr ""
+
+#: unit1.rsselectdirectory
+#, fuzzy
+#| msgid "Select Directory"
+msgid "Выберите каталог"
+msgstr "Hautatu direktorioa"
+
+#: unit1.rsselectpresetfile
+#, fuzzy
+#| msgid "Select Preset File"
+msgid "Выберите файл с параметрами"
+msgstr "Hautatu aurrezarpen-fitxategia"
+
+#: unit1.rsselectvideofiles
+#, fuzzy
+#| msgid "Select Video Files"
+msgid "Выберите видео файл(ы)"
+msgstr "Hautatu bideo-fitxategiak"
+
+#: unit1.rsterminaltestfailed
+msgid "Кажется, запуск терминала не удался. Наиболее вероятная причина - неправильная настройка параметров терминала в настройках Linux. Вы можете найти его через меню: Правка -> Настройки -> Linux -> Параметры терминала. Попробуйте изменить \"-e\" на \"-x\" или наоборот."
+msgstr ""
+
+#: unit1.rsthepresethasillegalchars
+#, fuzzy
+#| msgid "The preset contains illegal characters"
+msgid "Имя настроек содержит недопустимые символы"
+msgstr "Aurrezarpenak karaktere baliogabeak dauzka"
+
+#: unit2.rscreatepreset
+#, fuzzy
+#| msgid "Create Preset:"
+msgid "Сохранить параметры?"
+msgstr "Sortu aurrezarpena"
+
+#: unit2.rsimportpresets
+#, fuzzy
+#| msgid "Import Presets"
+msgid "Импортировать параметры"
+msgstr "Inportatu aurrezarpenak"
+
+#: unit2.rslabelmustbeunique
+#, fuzzy
+#| msgid "Label must be unique."
+msgid "Описание должно быть уникальным."
+msgstr "Etiketak bakarra izan behar du."
+
+#: unit2.rsremovepreset
+#, fuzzy
+#| msgid "Remove Preset:"
+msgid "Удалить настройки?"
+msgstr "Kendu aurrezarpena:"
+
+#: unit2.rsupdatepreset
+#, fuzzy
+#| msgid "Update Preset:"
+msgid "Заменить настройки?"
+msgstr "Eguneratu aurrezarpena:"
+
+#: unit2.rsyoumustenterextension
+#, fuzzy
+#| msgid "You must enter the extension."
+msgid "Необходимо ввести расширение."
+msgstr "Luzapena sartu behar duzu."
+
+#: unit2.rsyoumustenterlabel
+#, fuzzy
+#| msgid "You must enter a label."
+msgid "Необходимо ввести описание."
+msgstr "Etiketa bat sartu behar duzu."
+
+#: unit2.rsyoumustenternmae
+#, fuzzy
+#| msgid "You must enter a name."
+msgid "Необходимо ввести имя."
+msgstr "Izen bat sartu behar duzu."
+
+#: unit3.rslaunchpadcontrib
+msgid "Участники Launchpad"
+msgstr ""
+
+#: unit3.rstranslators
+msgid "Переводчики:"
+msgstr ""
+
+#: unit4.rspriorityhigh
+#, fuzzy
+#| msgid "High"
+msgid "Высокий"
+msgstr "Altua"
+
+#: unit4.rspriorityidle
+#, fuzzy
+#| msgid "Idle"
+msgid "Низкий"
+msgstr "Inaktiboa"
+
+#: unit4.rsprioritynormal
+#, fuzzy
+#| msgid "Normal"
+msgid "Нормальный"
+msgstr "Normala"
+

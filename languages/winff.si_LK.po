@@ -1,0 +1,252 @@
+# Copyright (C) 2008-2012 Matthew Weatherford <matt@biggmatt.com>
+# This file is distributed under the same license as the winff package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, <YEAR>.
+msgid ""
+msgstr ""
+"Project-Id-Version: WinFF 1.5.3\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/winff/issues/list\n"
+"POT-Creation-Date: 2014-02-15 11:14+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: si_LK\n"
+
+#: unit1.rsanalysing
+#, fuzzy
+#| msgid "Analysing"
+msgid "Анализирование"
+msgstr "විශ්ලේෂණය වෙමින් පවතී"
+
+#: unit1.rsconverting
+#, fuzzy
+#| msgid "Converting"
+msgid "Преобразование"
+msgstr "පරිවර්තනය වෙමින් පවතී"
+
+#: unit1.rscouldnotfindffmpeg
+#, fuzzy
+#| msgid "Could not find either ffmpeg or avconv."
+msgid "Не найден FFmpeg."
+msgstr "ffmpeg හෝ avconv සොයාගත නොහැක."
+
+#: unit1.rscouldnotfindffplay
+#, fuzzy
+#| msgid "Could not find either ffplay or avplay."
+msgid "Не найден FFPlay."
+msgstr "ffplay හෝ avplay සොයාගත නොහැක."
+
+#: unit1.rscouldnotfindfile
+#, fuzzy
+#| msgid "Could Not Find File"
+msgid "Не найден файл."
+msgstr "ගොනුව සොයාගත නොහැක."
+
+#: unit1.rscouldnotfindpresetfile
+#, fuzzy
+#| msgid "Could not find presets file."
+msgid "Не найден файл с параметрами."
+msgstr "සීරුමාරු ගොනුව සොයාගත නොහැක "
+
+#: unit1.rsextensionnoperiod
+#, fuzzy
+#| msgid "Extension can not contain a period"
+msgid "Расширение файла не должно содержать точку"
+msgstr "විස්තාරිතයේ කාලාවර්තයක් ඇතුලත් විය නොහැක."
+
+#: unit1.rsfiledoesnotexist
+#, fuzzy
+#| msgid "file does not exist"
+msgid "файл не существует"
+msgstr "ගොනුව නොපවතී"
+
+#: unit1.rsinvalidpreset
+#, fuzzy
+#| msgid "Invalid Preset File"
+msgid "Некорректный файл параметров"
+msgstr "සීරුමාරු ගොනුව අවලංගු වී ඇත "
+
+#: unit1.rsnamemustbeallpha
+#, fuzzy
+#| msgid "Name Must be alphanumeric (a-z,A-Z,0-9)"
+msgid "Имя должно быть буквнено-цифровым (a-z,A-Z,0-9)"
+msgstr "නම අක්ෂරාංක වලින් සමන්වියයුතුයි.(අ-ෆ,0-)"
+
+#: unit1.rspleaseadd1file
+#, fuzzy
+#| msgid "Please add at least 1 file to convert"
+msgid "Нет файлов для преобразования"
+msgstr "කරුණාකර එක ගොනුවක් හෝ පරිවර්තනය සඳහා එක කරන්න "
+
+#: unit1.rspleaseselectapreset
+#, fuzzy
+#| msgid "Please select a preset"
+msgid "Выберите настройки преобразования"
+msgstr "කරුණාකර සීරුමරුවක් තෝරන්න "
+
+#: unit1.rspresetalreadyexist
+#, fuzzy
+#| msgid "Preset: %s%s%s already exists. Do you want to replace the current preset?"
+msgid "Предустановка %s%s%s уже существует"
+msgstr "සීරුමාරුව: %s%s%s පවතී . පවතින සීරුමාරුව ප්‍රතිස්ථාපනය කිරීමට අවශ්‍යද?"
+
+#: unit1.rspresethasnoext
+#, fuzzy
+#| msgid "The preset to import does not have an extension"
+msgid "В импортируемых настройках отсутствует расширение"
+msgstr "ආයාත කලයුතු සීරුමාරුවට දිගුවක් නොමැත "
+
+#: unit1.rspresethasnolabel
+#, fuzzy
+#| msgid "The preset to import does not have a label"
+msgid "В импортируемых настройках отсутствует описание"
+msgstr "ආයාත කලයුතු සීරුමාරුවට ලේබලයක්  නොමැත "
+
+#: unit1.rspresettoexport
+#, fuzzy
+#| msgid "Please select a preset to export"
+msgid "Пожалуйста выберите параметры для экспорта"
+msgstr "කරුණාකර නිර්යාත කිරීමට සීරුමරුවක් තෝරන්න "
+
+#: unit1.rspresetwithlabelexists
+#, fuzzy
+#| msgid "Preset with label: %s%s%s already exists"
+msgid "Настройки с описанием %s%s%s уже существуют"
+msgstr " %s%s%s ලේබලය සහිත සීරුමරුවක් පවතී "
+
+#: unit1.rspressenter
+#, fuzzy
+#| msgid "Press Enter to Continue"
+msgid "Нажмите Ввод для продолжения"
+msgstr "ඉදිරියට යාමට ENTER යතුර ඔබන්න"
+
+#: unit1.rsrddialogtitle
+#, fuzzy
+#| msgid "Restore defaults"
+msgid "Восстановить по умолчанию"
+msgstr "පෙරනිමිය පිළිනගන්න"
+
+#: unit1.rsreplacepreset
+#, fuzzy
+#| msgid "Replace Preset?"
+msgid "Заменить параметры?"
+msgstr "සීරුමාරුව ප්‍රතිස්ථාපනය කරන්නද?"
+
+#: unit1.rsrestoredefaults
+#, fuzzy
+#| msgid "Restore Presets and Preferences to Defaults?"
+msgid "Восстановить параметры и настройки по умолчанию?"
+msgstr "සීරුමාරු සහ අභිමත සම්මතයන්ට ප්‍රතිෂ්ඨාපනය කරන්නද ?"
+
+#: unit1.rsselectdirectory
+#, fuzzy
+#| msgid "Select Directory"
+msgid "Выберите каталог"
+msgstr "ඩිරෙක්ටරිය තෝරන්න."
+
+#: unit1.rsselectpresetfile
+#, fuzzy
+#| msgid "Select Preset File"
+msgid "Выберите файл с параметрами"
+msgstr "සීරුමාරු ගොනුවක් තෝරන්න "
+
+#: unit1.rsselectvideofiles
+#, fuzzy
+#| msgid "Select Video Files"
+msgid "Выберите видео файл(ы)"
+msgstr "වීඩියෝ ගෙනුව තෝරන්න "
+
+#: unit1.rsterminaltestfailed
+#, fuzzy
+#| msgid "It seems that starting the terminal failed. The most likely cause is that the setting for terminal options in the linux preferences is incorrect. You can find it via the menu: Edit -> Preferences -> Linux -> Terminal Options. Try changing \"-e\" to \"-x\" or vice versa."
+msgid "Кажется, запуск терминала не удался. Наиболее вероятная причина - неправильная настройка параметров терминала в настройках Linux. Вы можете найти его через меню: Правка -> Настройки -> Linux -> Параметры терминала. Попробуйте изменить \"-e\" на \"-x\" или наоборот."
+msgstr "මින් පෙන්නුම් කරන්නේ ආන්තිකය ස්ථාපනය කිරීමට අසමත්ව ඇති බවයි.ලිනක්ස් වරනියේ ඇති ආන්තිකය සඳහා වන සැකසුම් නිසි ආකාරයෙන් සිදුනොවීම මීට හේතුව විය හැක.ඔබට මෙය මෙම ලින්කුව හරහා ගොස් සොයාගත හැක.Edit -> Preferences -> Linux -> Terminal Options. Try changing \"-e\" to \"-x\""
+
+#: unit1.rsthepresethasillegalchars
+#, fuzzy
+#| msgid "The preset contains illegal characters"
+msgid "Имя настроек содержит недопустимые символы"
+msgstr "සීරුමරුවේ අයුතු අනුලක්‍ෂණ පවතී "
+
+#: unit2.rscreatepreset
+#, fuzzy
+#| msgid "Create Preset:"
+msgid "Сохранить параметры?"
+msgstr "සීරුමාරුව සාදන්න "
+
+#: unit2.rsimportpresets
+#, fuzzy
+#| msgid "Import Presets"
+msgid "Импортировать параметры"
+msgstr "සීරුනරුව ආයාත කරන්න "
+
+#: unit2.rslabelmustbeunique
+#, fuzzy
+#| msgid "Label must be unique."
+msgid "Описание должно быть уникальным."
+msgstr "ලේබකය අනන්‍ය වියයුතුයි."
+
+#: unit2.rsremovepreset
+#, fuzzy
+#| msgid "Remove Preset:"
+msgid "Удалить настройки?"
+msgstr "සීරුමාරුව ඉවත්කරන්න "
+
+#: unit2.rsupdatepreset
+#, fuzzy
+#| msgid "Update Preset:"
+msgid "Заменить настройки?"
+msgstr "සීරුමාරුව යාවත්කාලීන කරන්න "
+
+#: unit2.rsyoumustenterextension
+#, fuzzy
+#| msgid "You must enter the extension."
+msgid "Необходимо ввести расширение."
+msgstr "දිගුව සඳහන් කරන්න."
+
+#: unit2.rsyoumustenterlabel
+#, fuzzy
+#| msgid "You must enter a label."
+msgid "Необходимо ввести описание."
+msgstr "ලේබලය සඳහන් කරන්න"
+
+#: unit2.rsyoumustenternmae
+#, fuzzy
+#| msgid "You must enter a name."
+msgid "Необходимо ввести имя."
+msgstr "නම සඳහන් කරන්න "
+
+#: unit3.rslaunchpadcontrib
+#, fuzzy
+#| msgid "Launchpad contributors"
+msgid "Участники Launchpad"
+msgstr "Launchpad  දායකයින් "
+
+#: unit3.rstranslators
+#, fuzzy
+#| msgid "Translators:"
+msgid "Переводчики:"
+msgstr "පරිවර්තකයන්"
+
+#: unit4.rspriorityhigh
+#, fuzzy
+#| msgid "High"
+msgid "Высокий"
+msgstr "උසස්"
+
+#: unit4.rspriorityidle
+#, fuzzy
+#| msgid "Idle"
+msgid "Низкий"
+msgstr "අක්‍රීය "
+
+#: unit4.rsprioritynormal
+#, fuzzy
+#| msgid "Normal"
+msgid "Нормальный"
+msgstr "සාමාන්‍ය"
+

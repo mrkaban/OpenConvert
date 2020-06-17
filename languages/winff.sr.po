@@ -1,0 +1,253 @@
+# Copyright (C) 2008-2012 Matthew Weatherford <matt@biggmatt.com>
+# This file is distributed under the same license as the winff package.
+# Jay A. Fleming <tito.nehru.naser@gmail.com>, 2013.
+# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: WinFF 1.5.0\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/winff/issues/list\n"
+"POT-Creation-Date: 2014-02-15 11:14+0100\n"
+"PO-Revision-Date: 2016-02-14 12:27+0000\n"
+"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
+"Language-Team: Serbian <gnom@prevod.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-09-03 08:08+0000\n"
+"X-Generator: Launchpad (build 18179)\n"
+"Language: sr\n"
+
+#: unit1.rsanalysing
+#, fuzzy
+#| msgid "Analysing"
+msgid "Анализирование"
+msgstr "Анализирање"
+
+#: unit1.rsconverting
+#, fuzzy
+#| msgid "Converting"
+msgid "Преобразование"
+msgstr "Прекодирање"
+
+#: unit1.rscouldnotfindffmpeg
+#, fuzzy
+#| msgid "Could not find either ffmpeg or avconv."
+msgid "Не найден FFmpeg."
+msgstr "Не могу да пронађем „ffmpeg“ или „avconv“ програм."
+
+#: unit1.rscouldnotfindffplay
+#, fuzzy
+#| msgid "Could not find either ffplay or avplay."
+msgid "Не найден FFPlay."
+msgstr "Не могу да пронађем „ffmpeg“ или „avplay“ програм."
+
+#: unit1.rscouldnotfindfile
+#, fuzzy
+#| msgid "Could Not Find File"
+msgid "Не найден файл."
+msgstr "Не могу да нађем датотеку"
+
+#: unit1.rscouldnotfindpresetfile
+#, fuzzy
+#| msgid "Could not find presets file."
+msgid "Не найден файл с параметрами."
+msgstr "Не могу да пронађем датотеку подешености."
+
+#: unit1.rsextensionnoperiod
+#, fuzzy
+#| msgid "Extension can not contain a period"
+msgid "Расширение файла не должно содержать точку"
+msgstr "Наставак не може садржати размак"
+
+#: unit1.rsfiledoesnotexist
+#, fuzzy
+#| msgid "file does not exist"
+msgid "файл не существует"
+msgstr "датотека не постоји"
+
+#: unit1.rsinvalidpreset
+#, fuzzy
+#| msgid "Invalid Preset File"
+msgid "Некорректный файл параметров"
+msgstr "Неисправна датотека подешености"
+
+#: unit1.rsnamemustbeallpha
+#, fuzzy
+#| msgid "Name Must be alphanumeric (a-z,A-Z,0-9)"
+msgid "Имя должно быть буквнено-цифровым (a-z,A-Z,0-9)"
+msgstr "Назив мора бити алфанумерички (а-з,А-З,0-9)"
+
+#: unit1.rspleaseadd1file
+#, fuzzy
+#| msgid "Please add at least 1 file to convert"
+msgid "Нет файлов для преобразования"
+msgstr "За прекодирање морате да додате бар једну датотеку"
+
+#: unit1.rspleaseselectapreset
+#, fuzzy
+#| msgid "Please select a preset"
+msgid "Выберите настройки преобразования"
+msgstr "Изаберите подешеност"
+
+#: unit1.rspresetalreadyexist
+#, fuzzy
+#| msgid "Preset: %s%s%s already exists. Do you want to replace the current preset?"
+msgid "Предустановка %s%s%s уже существует"
+msgstr "Подешеност: Већ постоји „%s%s%s“. Да ли желите да замените текућу подешеност?"
+
+#: unit1.rspresethasnoext
+#, fuzzy
+#| msgid "The preset to import does not have an extension"
+msgid "В импортируемых настройках отсутствует расширение"
+msgstr "Подешеност коју желите да увезете нема наставак назива датотеке"
+
+#: unit1.rspresethasnolabel
+#, fuzzy
+#| msgid "The preset to import does not have a label"
+msgid "В импортируемых настройках отсутствует описание"
+msgstr "Подешеност коју желите да увезете нема натпис"
+
+#: unit1.rspresettoexport
+#, fuzzy
+#| msgid "Please select a preset to export"
+msgid "Пожалуйста выберите параметры для экспорта"
+msgstr "Изаберите подешеност за извоз"
+
+#: unit1.rspresetwithlabelexists
+#, fuzzy
+#| msgid "Preset with label: %s%s%s already exists"
+msgid "Настройки с описанием %s%s%s уже существуют"
+msgstr "Већ постоји подешеност са натписом: %s%s%s"
+
+#: unit1.rspressenter
+#, fuzzy
+#| msgid "Press Enter to Continue"
+msgid "Нажмите Ввод для продолжения"
+msgstr "Притисните тастер „Унеси“ да наставите"
+
+#: unit1.rsrddialogtitle
+#, fuzzy
+#| msgid "Restore defaults"
+msgid "Восстановить по умолчанию"
+msgstr "Врати основне"
+
+#: unit1.rsreplacepreset
+#, fuzzy
+#| msgid "Replace Preset?"
+msgid "Заменить параметры?"
+msgstr "Да заменим подешеност?"
+
+#: unit1.rsrestoredefaults
+#, fuzzy
+#| msgid "Restore Presets and Preferences to Defaults?"
+msgid "Восстановить параметры и настройки по умолчанию?"
+msgstr "Да вратим подешености и поставке на основне?"
+
+#: unit1.rsselectdirectory
+#, fuzzy
+#| msgid "Select Directory"
+msgid "Выберите каталог"
+msgstr "Изаберите директоријум"
+
+#: unit1.rsselectpresetfile
+#, fuzzy
+#| msgid "Select Preset File"
+msgid "Выберите файл с параметрами"
+msgstr "Изаберите датотеку подешености"
+
+#: unit1.rsselectvideofiles
+#, fuzzy
+#| msgid "Select Video Files"
+msgid "Выберите видео файл(ы)"
+msgstr "Изаберите видео датотеке"
+
+#: unit1.rsterminaltestfailed
+#, fuzzy
+#| msgid "It seems that starting the terminal failed. The most likely cause is that the setting for terminal options in the linux preferences is incorrect. You can find it via the menu: Edit -> Preferences -> Linux -> Terminal Options. Try changing \"-e\" to \"-x\" or vice versa."
+msgid "Кажется, запуск терминала не удался. Наиболее вероятная причина - неправильная настройка параметров терминала в настройках Linux. Вы можете найти его через меню: Правка -> Настройки -> Linux -> Параметры терминала. Попробуйте изменить \"-e\" на \"-x\" или наоборот."
+msgstr "Изгледа да покретање терминала није успело. Највероватније да је узрок овоме неисправно подешавање за опције терминала у поставкама линукса. Можете га наћи путем изборника: Уређивање —> Поставке —> Линукс —> Опције терминала. Покушајте да измените „-e“ у „-x“ или обрнуто."
+
+#: unit1.rsthepresethasillegalchars
+#, fuzzy
+#| msgid "The preset contains illegal characters"
+msgid "Имя настроек содержит недопустимые символы"
+msgstr "Подешеност садржи недозвољене знакове"
+
+#: unit2.rscreatepreset
+#, fuzzy
+#| msgid "Create Preset:"
+msgid "Сохранить параметры?"
+msgstr "Створи подешеност:"
+
+#: unit2.rsimportpresets
+#, fuzzy
+#| msgid "Import Presets"
+msgid "Импортировать параметры"
+msgstr "Увези подешености"
+
+#: unit2.rslabelmustbeunique
+#, fuzzy
+#| msgid "Label must be unique."
+msgid "Описание должно быть уникальным."
+msgstr "Натпис мора бити јединствен."
+
+#: unit2.rsremovepreset
+#, fuzzy
+#| msgid "Remove Preset:"
+msgid "Удалить настройки?"
+msgstr "Уклони подешеност:"
+
+#: unit2.rsupdatepreset
+#, fuzzy
+#| msgid "Update Preset:"
+msgid "Заменить настройки?"
+msgstr "Ажурирај подешеност:"
+
+#: unit2.rsyoumustenterextension
+#, fuzzy
+#| msgid "You must enter the extension."
+msgid "Необходимо ввести расширение."
+msgstr "Морате унети наставак назива датотеке."
+
+#: unit2.rsyoumustenterlabel
+#, fuzzy
+#| msgid "You must enter a label."
+msgid "Необходимо ввести описание."
+msgstr "Морате унети натпис."
+
+#: unit2.rsyoumustenternmae
+#, fuzzy
+#| msgid "You must enter a name."
+msgid "Необходимо ввести имя."
+msgstr "Морате навести назив."
+
+#: unit3.rslaunchpadcontrib
+#, fuzzy
+#| msgid "Launchpad contributors"
+msgid "Участники Launchpad"
+msgstr "Други сарадници:"
+
+#: unit3.rstranslators
+#, fuzzy
+#| msgid "Translators:"
+msgid "Переводчики:"
+msgstr "Преводиоци:"
+
+#: unit4.rspriorityhigh
+#, fuzzy
+#| msgid "High"
+msgid "Высокий"
+msgstr "Висок"
+
+#: unit4.rspriorityidle
+#, fuzzy
+#| msgid "Idle"
+msgid "Низкий"
+msgstr "Неактиван"
+
+#: unit4.rsprioritynormal
+#, fuzzy
+#| msgid "Normal"
+msgid "Нормальный"
+msgstr "Нормално"
+

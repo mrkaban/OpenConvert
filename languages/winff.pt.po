@@ -1,0 +1,262 @@
+# Translation of winff messages to european Portuguese
+# Copyright (C) 2008-2013 Matthew Weatherford <matt@biggmatt.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+# Luís Torrao <luistorrao@gmail.com>, 2008.
+# Américo Monteiro <a_monteiro@gmx.com>, 2010, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: winff 1.5.1\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/winff/issues/list\n"
+"POT-Creation-Date: 2014-02-15 11:14+0100\n"
+"PO-Revision-Date: 2013-11-30 00:22+0000\n"
+"Last-Translator: Américo Monteiro <a_monteiro@gmx.com>\n"
+"Language-Team: Portuguese <traduz@debianpt.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-11-04 20:40+0000\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: unit1.rsanalysing
+#, fuzzy
+#| msgid "Analysing"
+msgid "Анализирование"
+msgstr "A analisar"
+
+#: unit1.rsconverting
+#, fuzzy
+#| msgid "Converting"
+msgid "Преобразование"
+msgstr "A converter"
+
+#: unit1.rscouldnotfindffmpeg
+#, fuzzy
+#| msgid "Could not find either ffmpeg or avconv."
+msgid "Не найден FFmpeg."
+msgstr "Incapaz de encontrar o ffmpeg nem o avconv."
+
+#: unit1.rscouldnotfindffplay
+#, fuzzy
+#| msgid "Could not find either ffplay or avplay."
+msgid "Не найден FFPlay."
+msgstr "Incapaz de encontrar o ffplay nem o avplay."
+
+#: unit1.rscouldnotfindfile
+#, fuzzy
+#| msgid "Could Not Find File"
+msgid "Не найден файл."
+msgstr "Incapaz de encontrar o ficheiro"
+
+#: unit1.rscouldnotfindpresetfile
+#, fuzzy
+#| msgid "Could not find presets file."
+msgid "Не найден файл с параметрами."
+msgstr "Incapaz de encontrar o ficheiro de pré-ajustes."
+
+#: unit1.rsextensionnoperiod
+#, fuzzy
+#| msgid "Extension can not contain a period"
+msgid "Расширение файла не должно содержать точку"
+msgstr "A extensão não pode conter um ponto"
+
+#: unit1.rsfiledoesnotexist
+#, fuzzy
+#| msgid "file does not exist"
+msgid "файл не существует"
+msgstr "o ficheiro não existe"
+
+#: unit1.rsinvalidpreset
+#, fuzzy
+#| msgid "Invalid Preset File"
+msgid "Некорректный файл параметров"
+msgstr "O ficheiro de pré-ajuste é inválido"
+
+#: unit1.rsnamemustbeallpha
+#, fuzzy
+#| msgid "Name Must be alphanumeric (a-z,A-Z,0-9)"
+msgid "Имя должно быть буквнено-цифровым (a-z,A-Z,0-9)"
+msgstr "O nome tem de ser alfanumérico (a-z,A-Z,0-9)"
+
+#: unit1.rspleaseadd1file
+#, fuzzy
+#| msgid "Please add at least 1 file to convert"
+msgid "Нет файлов для преобразования"
+msgstr "Adicione, pelo menos, 1 ficheiro para converter"
+
+#: unit1.rspleaseselectapreset
+#, fuzzy
+#| msgid "Please select a preset"
+msgid "Выберите настройки преобразования"
+msgstr "Por favor, escolha o pré-ajuste"
+
+#: unit1.rspresetalreadyexist
+#, fuzzy
+#| msgid "Preset: %s%s%s already exists. Do you want to replace the current preset?"
+msgid "Предустановка %s%s%s уже существует"
+msgstr "O pré-ajuste %s%s%s já existe. Deseja substituir o pré-ajuste existente?"
+
+#: unit1.rspresethasnoext
+#, fuzzy
+#| msgid "The preset to import does not have an extension"
+msgid "В импортируемых настройках отсутствует расширение"
+msgstr "O pré-ajuste a importar não tem uma extensão"
+
+#: unit1.rspresethasnolabel
+#, fuzzy
+#| msgid "The preset to import does not have a label"
+msgid "В импортируемых настройках отсутствует описание"
+msgstr "O pré-ajuste a importar não tem uma etiqueta"
+
+#: unit1.rspresettoexport
+#, fuzzy
+#| msgid "Please select a preset to export"
+msgid "Пожалуйста выберите параметры для экспорта"
+msgstr "Por favor, escolha o pré-ajuste a exportar"
+
+#: unit1.rspresetwithlabelexists
+#, fuzzy
+#| msgid "Preset with label: %s%s%s already exists"
+msgid "Настройки с описанием %s%s%s уже существуют"
+msgstr "O pré-ajuste com a etiqueta %s%s%s já existe"
+
+#: unit1.rspressenter
+#, fuzzy
+#| msgid "Press Enter to Continue"
+msgid "Нажмите Ввод для продолжения"
+msgstr "Prima Enter para continuar"
+
+#: unit1.rsrddialogtitle
+msgid "Восстановить по умолчанию"
+msgstr ""
+
+#: unit1.rsreplacepreset
+#, fuzzy
+#| msgid "Replace Preset?"
+msgid "Заменить параметры?"
+msgstr "Substituir o Pré-ajuste?"
+
+#: unit1.rsrestoredefaults
+msgid "Восстановить параметры и настройки по умолчанию?"
+msgstr ""
+
+#: unit1.rsselectdirectory
+#, fuzzy
+#| msgid "Select Directory"
+msgid "Выберите каталог"
+msgstr "Selecione o diretório"
+
+#: unit1.rsselectpresetfile
+#, fuzzy
+#| msgid "Select Preset File"
+msgid "Выберите файл с параметрами"
+msgstr "Seleccione o ficheiro do pré-ajuste"
+
+#: unit1.rsselectvideofiles
+#, fuzzy
+#| msgid "Select Video Files"
+msgid "Выберите видео файл(ы)"
+msgstr "Selecione o ficheiro do vídeo"
+
+#: unit1.rsterminaltestfailed
+msgid "Кажется, запуск терминала не удался. Наиболее вероятная причина - неправильная настройка параметров терминала в настройках Linux. Вы можете найти его через меню: Правка -> Настройки -> Linux -> Параметры терминала. Попробуйте изменить \"-e\" на \"-x\" или наоборот."
+msgstr ""
+
+#: unit1.rsthepresethasillegalchars
+#, fuzzy
+#| msgid "The preset contains illegal characters"
+msgid "Имя настроек содержит недопустимые символы"
+msgstr "O pré-ajuste contém caracteres ilegais"
+
+#: unit2.rscreatepreset
+#, fuzzy
+#| msgid "Create Preset:"
+msgid "Сохранить параметры?"
+msgstr "Criar pré-ajuste:"
+
+#: unit2.rsimportpresets
+#, fuzzy
+#| msgid "Import Presets"
+msgid "Импортировать параметры"
+msgstr "Importar pré-ajuste"
+
+#: unit2.rslabelmustbeunique
+#, fuzzy
+#| msgid "Label must be unique."
+msgid "Описание должно быть уникальным."
+msgstr "A etiqueta tem de ser única."
+
+#: unit2.rsremovepreset
+#, fuzzy
+#| msgid "Remove Preset:"
+msgid "Удалить настройки?"
+msgstr "Remover pré-ajuste:"
+
+#: unit2.rsupdatepreset
+#, fuzzy
+#| msgid "Update Preset:"
+msgid "Заменить настройки?"
+msgstr "Actualizar pré-ajuste:"
+
+#: unit2.rsyoumustenterextension
+#, fuzzy
+#| msgid "You must enter the extension."
+msgid "Необходимо ввести расширение."
+msgstr "Tem de introduzir uma extensão."
+
+#: unit2.rsyoumustenterlabel
+#, fuzzy
+#| msgid "You must enter a label."
+msgid "Необходимо ввести описание."
+msgstr "Tem de introduzir uma etiqueta."
+
+#: unit2.rsyoumustenternmae
+#, fuzzy
+#| msgid "You must enter a name."
+msgid "Необходимо ввести имя."
+msgstr "Tem de introduzir um nome."
+
+#: unit3.rslaunchpadcontrib
+#, fuzzy
+#| msgid "Launchpad contributors"
+msgid "Участники Launchpad"
+msgstr "Contribuidores do Launchpad"
+
+#: unit3.rstranslators
+#, fuzzy
+#| msgid "Translators:"
+msgid "Переводчики:"
+msgstr "Tradutores:"
+
+#: unit4.rspriorityhigh
+#, fuzzy
+#| msgid "High"
+msgid "Высокий"
+msgstr "Alta"
+
+#: unit4.rspriorityidle
+#, fuzzy
+#| msgid "Idle"
+msgid "Низкий"
+msgstr "Inactivo"
+
+#: unit4.rsprioritynormal
+#, fuzzy
+#| msgid "Normal"
+msgid "Нормальный"
+msgstr "Normal"
+
